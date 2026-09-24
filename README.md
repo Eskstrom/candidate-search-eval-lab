@@ -40,3 +40,23 @@ Use synthetic profiles only. Do not score people or make hiring recommendations.
 - [problem and users](docs/PROBLEM_AND_USERS.md)
 
 [Implementation planning notes](notes/IMPLEMENTATION-NOTES.md)
+
+<!-- portfolio-future-plans:start -->
+## Future plans and PRD direction
+
+*Planning review: 24 September 2026. These are proposed next steps, not completed work or measured outcomes.*
+
+**Priority recommendation:** Deprioritize; consider retirement only if inactive.
+
+Preserve useful material in the existing retrieval benchmark's future evaluation notes instead of committing to another active product roadmap.
+
+### Next scope
+
+- [ ] Save relevance labeling, baseline comparison and measurement design before any retirement decision.
+- [ ] Check current use, unique branches/assets and incoming links before proposing archive or deletion.
+- [ ] No deletion is authorized by this note and the repository's current status is unchanged.
+
+### Validation and decision criteria
+
+Reopen a PRD only for a specific recruiting-retrieval user need, with a scoped synthetic evaluation. Inactivity has not been established; retaining the repository remains an option.
+<!-- portfolio-future-plans:end -->
